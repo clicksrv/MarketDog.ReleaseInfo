@@ -1,0 +1,12 @@
+[
+  {
+    "releaseDate": "03/06/2021",
+    "versionId": 1,
+    "requiredAppVersion": {
+      "major": 1,
+      "minor": 0,
+      "patch": 1
+    },
+    "notes": "Initial Release"
+  }
+]
